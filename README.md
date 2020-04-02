@@ -1,14 +1,14 @@
 ## geospatial_viewerApp Repository
 ## Installation.
-### Just clone this repository in you local HDD and access to the
+### Just clone this repository in you local HDD and access to the Data Analysis App
 
 
  ## Map exported by Export Menu Option
-  ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_viewerApp/blob/master/img/exported_toPNG.png)
+  ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_dataAnalysis/blob/master/img/sc01.png)
 
-### Geospatial data  analysis
-# Chart pie
-   ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_viewerApp/blob/master/img/pie.png)
+ 
+ 
+   ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_dataAnalysis/blob/master/img/sc02.png)
 
- # Histogram Chart  
- ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_viewerApp/blob/master/img/histogram.png)
+ 
+ ![Image of Yaktocat](https://github.com/Canadian-Geospatial-Platform/geospatial_dataAnalysis/blob/master/img/sc03.png)
